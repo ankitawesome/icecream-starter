@@ -2,7 +2,7 @@ This is a starter file for our application
 
 you have to do three main work here:
 
-obviously you need to navigate to this folder 
+download the zip from the link and obviously you need to navigate to this folder 
 
 1.) npm install
 2.) open two terminal shells and run these commands
