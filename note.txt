@@ -12,3 +12,7 @@ download the zip from the link and obviously you need to navigate to this folder
 3.) Start designing the home page and continue with the lecture
 
 4.) when you are done for the day shut all two terminal shells with contro + c and enjoy.
+
+final start from routes managing file
+
+manage route in seperate file
