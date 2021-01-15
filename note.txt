@@ -1,0 +1,14 @@
+This is a starter file for our application
+
+you have to do three main work here:
+
+obviously you need to navigate to this folder 
+
+1.) npm install
+2.) open two terminal shells and run these commands
+            -- 1 : npm run watch  (keep watching files for potential change)
+            -- 2 : npm run dev    (keep running server with nodemon server.js)
+
+3.) Start designing the home page and continue with the lecture
+
+4.) when you are done for the day shut all two terminal shells with contro + c and enjoy.

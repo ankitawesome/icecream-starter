@@ -1,0 +1,26 @@
+{
+  "name": "ice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "serve": "node server.js",
+    "watch":"npx mix -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.10",
+    "postcss": "^8.2.4",
+    "resolve-url-loader": "^3.1.0",
+    "sass": "^1.32.4",
+    "sass-loader": "^8.0.2"
+  }
+}
