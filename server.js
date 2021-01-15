@@ -1,15 +1,19 @@
+// Important Imports
 const express = require('express');
 const expressLayout = require('express-ejs-layouts');
-
-const app = express();
 const ejs = require('ejs');
 const path = require('path');
 
+// App initialised
+const app = express();
+
+// Serving on localhost as well as deployment
 const port = 3000 || process.env.PORT
 
 // Assets
 app.use(express.static('public'))
 
+// first route to home page
 app.get('/', (req, res) =>{
     res.render('home')
 })
