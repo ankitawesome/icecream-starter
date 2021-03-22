@@ -16,3 +16,7 @@ download the zip from the link and obviously you need to navigate to this folder
 final start from routes managing file
 
 manage route in seperate file
+
+-- as of date 22 march 2021 we have started managing route in seperate file
+-- as of date 22 March 2021 we have done creating dedicated controllers for each routes
+-- next fetch data for pizza from database start from 34:00 part 6 of realtime 
